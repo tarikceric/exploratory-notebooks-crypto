@@ -1,2 +1,2 @@
-# exploratory-notebooks-crypto
-Collection of Jupyter notebooks for exploratory cryptocurrency/blockchain analytics
+# Exploratory notebooks of crypto analytics
+Collection of Jupyter notebooks for exploring different analysis of cryptocurrency/blockchain data
