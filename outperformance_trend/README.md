@@ -1,4 +1,4 @@
-# # Exploring trends that lead to outperforming weekly/daily price action
+## Exploring trends that lead to outperforming weekly/daily price action
 
 Analyze the volume/price action that lead to a significant price outperformance for lower cap coins. The pycoingecko library is used to retrieve token information from Coingecko.
 
@@ -13,9 +13,13 @@ The goal is to determine if there is any trend that tends to lead to a token hav
 
 Install dependencies
 
-- virtualenv venv
-- source venv/bin/activate
-- pip3 install -r requirements.txt
+```
+virtualenv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+```
 
 Start Jupyter server in terminal via:
-- jupyter notebook
+```
+jupyter notebook
+```
